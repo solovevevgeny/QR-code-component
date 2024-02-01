@@ -52,7 +52,7 @@ p {
     background-color: var(--color-white);
     border-radius: var(--bradius);
     padding:18px;
-    max-width: 280px;
+    max-width: 375px;
 }
 
 .box__image {
